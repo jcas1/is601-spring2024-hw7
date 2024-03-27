@@ -14,7 +14,7 @@ the target website. You must make your program generate a QR code that takes som
 
 PUT YOUR QR CODE IMAGE
 
-![alt text](qr_codes/QRCode_20240327022105.png) 
+![QR CODE TO GITHUB HOMEPAGE](qr_codes/QRCode_20240327022105.png) 
 
 changes
 
@@ -22,7 +22,7 @@ changes
  
  PUT YOUR LOG IMAGE HERE
 
-![alt text](qr_codes/QRCode_20240327023910.png)
+![QR CODE TO GITHUB HOMEPAGE](qr_codes/QRCode_20240327023910.png)
 
 ## Lesson Video
 
