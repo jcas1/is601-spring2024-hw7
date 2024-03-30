@@ -14,7 +14,7 @@ the target website. You must make your program generate a QR code that takes som
 
 PUT YOUR QR CODE IMAGE
 
-![QR CODE TO GITHUB HOMEPAGE](qr_codes/QRCode_20240327022105.PNG) 
+![QR CODE TO GITHUB HOMEPAGE](https://raw.githubusercontent.com/jcas1/is601-spring2024-hw7/main/qr_codes/QRCode_20240330022325.png) 
 
 changes
 
