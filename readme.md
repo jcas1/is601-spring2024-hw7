@@ -22,7 +22,7 @@ changes
  
  PUT YOUR LOG IMAGE HERE
 
-![QR CODE TO GITHUB HOMEPAGE](qr_codes/QRCode_20240327023910.PNG)
+![QR CODE TO GITHUB HOMEPAGE](https://github.com/jcas1/is601-spring2024-hw7/blob/main/qr_codes/logs.png)
 
 ## Lesson Video
 
